@@ -1,0 +1,17 @@
+# Data access and scraping
+beautifulsoup4>=4.12
+requests>=2.31
+
+# Analysis and visualization
+folium>=0.16
+matplotlib>=3.8
+pandas>=2.2
+plotly>=5.20
+seaborn>=0.13
+
+# Dashboard and browser interface
+dash>=2.17
+streamlit>=1.44
+
+# Machine learning
+scikit-learn>=1.4

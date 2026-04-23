@@ -1,0 +1,8 @@
+Technology Survey Capstone - Generated Summary Outputs
+Rows: 18,845
+Columns: 114
+
+Top processed files:
+- top_countries.csv
+- top_languages.csv
+- top_education_levels.csv

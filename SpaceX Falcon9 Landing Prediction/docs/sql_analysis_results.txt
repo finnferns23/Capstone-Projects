@@ -1,0 +1,24 @@
+SpaceX SQL Query Results
+
+--- distinct_launch_sites ---
+ Launch_Site
+ CCAFS LC-40
+ VAFB SLC-4E
+  KSC LC-39A
+CCAFS SLC-40
+ CCAFSSLC-40
+
+--- nasa_crs_payload_sum ---
+total_payload_kg
+            None
+
+--- f9_v11_avg_payload ---
+ avg_payload_kg
+    2534.666667
+
+--- mission_outcome_counts ---
+                 Mission_Outcome  count
+                         Success     98
+Success (payload status unclear)      1
+                        Success       1
+             Failure (in flight)      1

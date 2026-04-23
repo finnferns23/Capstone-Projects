@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+*.html
+*.png
+*.jpg
+*.jpeg
+*.log
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+env/

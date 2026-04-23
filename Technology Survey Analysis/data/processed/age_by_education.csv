@@ -1,0 +1,62 @@
+Age,EdLevel,Count
+18-24 years old,"Associate degree (A.A., A.S., etc.)",132
+18-24 years old,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",1468
+18-24 years old,"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",299
+18-24 years old,Primary/elementary school,25
+18-24 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",20
+18-24 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",495
+18-24 years old,Some college/university study without earning a degree,496
+18-24 years old,Something else,53
+25-34 years old,"Associate degree (A.A., A.S., etc.)",231
+25-34 years old,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3985
+25-34 years old,"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",2178
+25-34 years old,Primary/elementary school,30
+25-34 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",157
+25-34 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",288
+25-34 years old,Some college/university study without earning a degree,843
+25-34 years old,Something else,76
+35-44 years old,"Associate degree (A.A., A.S., etc.)",176
+35-44 years old,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",2115
+35-44 years old,"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",1685
+35-44 years old,Primary/elementary school,26
+35-44 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",249
+35-44 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",197
+35-44 years old,Some college/university study without earning a degree,665
+35-44 years old,Something else,36
+45-54 years old,"Associate degree (A.A., A.S., etc.)",68
+45-54 years old,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",783
+45-54 years old,"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",616
+45-54 years old,Primary/elementary school,7
+45-54 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",153
+45-54 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",70
+45-54 years old,Some college/university study without earning a degree,344
+45-54 years old,Something else,12
+55-64 years old,"Associate degree (A.A., A.S., etc.)",22
+55-64 years old,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",237
+55-64 years old,"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",196
+55-64 years old,Primary/elementary school,4
+55-64 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",65
+55-64 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",17
+55-64 years old,Some college/university study without earning a degree,88
+55-64 years old,Something else,3
+65 years or older,"Associate degree (A.A., A.S., etc.)",4
+65 years or older,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",25
+65 years or older,"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",22
+65 years or older,Primary/elementary school,2
+65 years or older,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",13
+65 years or older,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1
+65 years or older,Some college/university study without earning a degree,7
+65 years or older,Something else,1
+Prefer not to say,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11
+Prefer not to say,"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4
+Prefer not to say,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",2
+Prefer not to say,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2
+Prefer not to say,Some college/university study without earning a degree,3
+Prefer not to say,Something else,2
+Under 18 years old,"Associate degree (A.A., A.S., etc.)",1
+Under 18 years old,"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5
+Under 18 years old,Primary/elementary school,38
+Under 18 years old,"Professional degree (JD, MD, Ph.D, Ed.D, etc.)",2
+Under 18 years old,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",73
+Under 18 years old,Some college/university study without earning a degree,10
+Under 18 years old,Something else,7

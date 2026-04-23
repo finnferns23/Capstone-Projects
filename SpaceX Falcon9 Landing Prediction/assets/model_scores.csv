@@ -1,0 +1,5 @@
+model,test_accuracy,best_params
+Logistic Regression,0.8333333333333334,"{'C': 0.1, 'solver': 'lbfgs'}"
+SVM,0.8333333333333334,"{'C': 1.0, 'gamma': 'scale', 'kernel': 'sigmoid'}"
+Decision Tree,0.8333333333333334,"{'criterion': 'gini', 'max_depth': 2}"
+KNN,0.7777777777777778,"{'n_neighbors': 3, 'p': 1}"
