@@ -1,16 +1,46 @@
-__pycache__/
+# Python
+**pycache**/
 *.py[cod]
-*.db
-*.sqlite
-*.sqlite3
-*.html
-*.png
-*.jpg
-*.jpeg
-*.log
-.ipynb_checkpoints/
-.DS_Store
-Thumbs.db
+*.pyd
+*.so
+
+# Virtual environments
 .venv/
 venv/
 env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Test/cache
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Database
+*.sqlite3
+*.db
