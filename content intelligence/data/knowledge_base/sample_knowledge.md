@@ -1,0 +1,1 @@
+Advanced content assistants should combine content strategy, generation, repurposing, multimedia scripting, RAG, memory, and safe tool use. Production projects should keep agents, tools, services, and orchestration in separate layers.

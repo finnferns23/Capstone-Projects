@@ -1,0 +1,42 @@
+{
+  "ecommerce_text": {
+    "slug": "saurabhshahane/ecommerce-text-classification",
+    "target_folder": "data/kaggle_raw/ecommerce_text",
+    "task": "product_content_classification",
+    "recommended_use": "Train and validate content classification for ecommerce product descriptions.",
+    "expected_columns": ["label", "text"],
+    "project_mapping": {"label": "category", "text": "content"}
+  },
+  "news_category": {
+    "slug": "rmisra/news-category-dataset",
+    "target_folder": "data/kaggle_raw/news_category",
+    "task": "headline_and_article_category_classification",
+    "recommended_use": "Classify news-style content and improve topic-aware content generation.",
+    "expected_columns": ["category", "headline", "short_description"],
+    "project_mapping": {"category": "category", "headline": "title", "short_description": "content"}
+  },
+  "marketing_campaign_performance": {
+    "slug": "manishabhatt22/marketing-campaign-performance-dataset",
+    "target_folder": "data/kaggle_raw/marketing_campaign_performance",
+    "task": "campaign_performance_analysis",
+    "recommended_use": "Power analytics, campaign optimization examples, and performance insight generation.",
+    "expected_columns": ["campaign", "channel", "clicks", "impressions", "conversions"],
+    "project_mapping": {"campaign": "title", "channel": "channel", "conversions": "conversion_metric"}
+  },
+  "digital_marketing_conversion": {
+    "slug": "rabieelkharoua/predict-conversion-in-digital-marketing-dataset",
+    "target_folder": "data/kaggle_raw/digital_marketing_conversion",
+    "task": "conversion_prediction_and_campaign_insights",
+    "recommended_use": "Support conversion-focused content optimization and audience targeting logic.",
+    "expected_columns": ["Age", "Income", "AdSpend", "ClickThroughRate", "ConversionRate"],
+    "project_mapping": {"ConversionRate": "conversion_metric", "ClickThroughRate": "engagement_metric"}
+  },
+  "multimodal_ecommerce": {
+    "slug": "ziya07/multimodal-e-commerce-dataset",
+    "target_folder": "data/kaggle_raw/multimodal_ecommerce",
+    "task": "multimodal_product_content_intelligence",
+    "recommended_use": "Extend the capstone toward image plus text product intelligence when image pipelines are added.",
+    "expected_columns": ["category", "title", "description", "image"],
+    "project_mapping": {"category": "category", "title": "title", "description": "content", "image": "image_reference"}
+  }
+}
